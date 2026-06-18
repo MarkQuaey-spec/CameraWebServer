@@ -45,3 +45,7 @@ OV2640 camera web server for the Freenove ESP32-S3-WROOM, built on the Espressif
 
 - Never commit real WiFi credentials to this repo — keep `ssid`/`password` blank in source control and fill them in locally before flashing.
 - `partitions.csv` defines a custom partition table; make sure the IDE's Partition Scheme is set to **Custom** or the build will fail/overflow.
+
+## Help Wanted
+
+Trying to get the OV5640 camera module working on this board but haven't had luck yet. If you know how to bring the OV5640 to life here, please reach out: markquaey@gmail.com
